@@ -1,0 +1,17 @@
+pyttsx3>=2.90
+SpeechRecognition>=3.8.1
+pyaudio>=0.2.13        # Required by SpeechRecognition for mic input
+wikipedia>=1.4.0
+wolframalpha>=5.0.0
+googletrans==4.0.0rc1  # Specific release candidate version that works
+pygame>=2.5.2
+pyautogui>=0.9.54
+PyPDF2>=3.0.1
+opencv-python>=4.8.0.76
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+geocoder>=1.38.1
+pytz>=2024.1
+plyer>=2.1.0
+psutil>=5.9.8
+pyjokes>=0.6.0         # If you use joke-telling
