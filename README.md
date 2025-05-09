@@ -54,19 +54,33 @@ NEWS_API_KEY = "your_news_api_key"
 ## 🛠 Requirements
 
 pyttsx3
+
 speechrecognition
+
 opencv-python
+
 requests
+
 wikipedia
+
 wolframalpha
+
 googletrans==4.0.0rc1
+
 pygame
+
 pyautogui
+
 PyPDF2
+
 beautifulsoup4
+
 geocoder
+
 pytz
+
 plyer
+
 psutil
 
 ## 🧠 Technologies Used
