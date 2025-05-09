@@ -33,8 +33,8 @@ Jarvis is an advanced voice assistant built with Python. It can perform a wide r
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/jarvis-assistant.git
-cd jarvis-assistant
+git clone https://github.com/amandeep-2004/Voice-Assistant--Jarvis.git
+cd Voice-Assistant--Jarvis
 pip install -r requirements.txt
 python jarvis_v2.py
 ```
